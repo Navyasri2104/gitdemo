@@ -1,0 +1,18 @@
+
+going to creating an application 
+
+1.Naming as Instagram
+2.You can post your photos,videos
+3.Can add story 
+4.Can follow your friends and pages
+5.Can create a page ,fun pages, work pages and whatever you wanna explore
+6.you can like,comment and share the post
+7.Can search about what you want
+8.can keep your ac private or public 
+9.can text,voice or video calls to your friends
+10.can make strangers as friends
+
+
+assuming as we are gonna create a code for this....
+
+ 
