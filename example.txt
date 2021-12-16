@@ -1,4 +1,5 @@
 
+
 going to creating an application 
 
 1.Naming as Instagram
@@ -13,9 +14,12 @@ going to creating an application
 10.can make strangers as friends
 11.can do reels
 12.200 members can be in one group
+
 13.added something
+
 
 
 assuming as we are gonna create a code for this....
 added something
  
+
