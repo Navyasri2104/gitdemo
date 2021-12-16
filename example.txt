@@ -1,4 +1,5 @@
 
+
 going to creating an application 
 
 1.Naming as Instagram
@@ -12,9 +13,9 @@ going to creating an application
 9.can text,voice or video calls to your friends
 10.can make strangers as friends
 11.can do reels
-12. 100 members can be in one group
-
+12.200 members can be in one group
 
 assuming as we are gonna create a code for this....
 added something
  
+
